@@ -1,10 +1,10 @@
 {
-  "version": "0.1.51",
-  "build_date": "2026-09-05",
-  "firmware_file": "fermvault-pico-firmware-0.1.51.zip",
-  "firmware_sha256": "052a6fb5dfa2f03e89c293353c13de898d6928fd0a579441ea4eed499aef521c",
-  "bundle_file": "firmware-bundle-0.1.51.json",
-  "bundle_sha256": "ddabf6ca11e4cd98e85a1bb1e56bd25d9fa4f473ca6ec388ca0118ffdc05a0d7",
+  "version": "0.1.52",
+  "build_date": "2026-09-06",
+  "firmware_file": "fermvault-pico-firmware-0.1.52.zip",
+  "firmware_sha256": "7f836e5962721549c0af4cee0cbf70b966c5bfc1916f4887dc95e65692ba614e",
+  "bundle_file": "firmware-bundle-0.1.52.json",
+  "bundle_sha256": "839ec6d4ab839544fa36f2f4a0da21d1d01633ed58bbfc6322c1d9f0eca6ae4c",
   "files": [
     {
       "path": "lib/microdot/__init__.py",
@@ -16,7 +16,7 @@
     },
     {
       "path": "alert_manager.py",
-      "sha256": "a4f4629ed42023aacd50290c7260061e104b5fd15f02bd27294b2fe21d215694"
+      "sha256": "e04a4806017bea92f1d7af2dac26ad492e0f90f6691d1b9ad405c68a1c8a6e2e"
     },
     {
       "path": "brewersfriend.py",
@@ -48,7 +48,7 @@
     },
     {
       "path": "version.py",
-      "sha256": "00d1f725786e417025d1cdc27073c94882cf57b47128c075a7ce254d5e475893"
+      "sha256": "1414eb94a7ab7becad1aa1f51a23bdfce469b81c9ab9030b4d202bd662fb8ba0"
     },
     {
       "path": "wifi.py",
