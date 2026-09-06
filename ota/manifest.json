@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2",
-  "build_date": "2026-09-03",
-  "firmware_file": "keglevel-pico-firmware-1.1.2.zip",
-  "firmware_sha256": "e417e996b3487814d8c6d9b8d0665599df1685f378822420ebb69611f728d8af",
-  "bundle_file": "firmware-bundle-1.1.2.json",
-  "bundle_sha256": "61c78e35f66fb8a9a42c3b6702e90192d65c09f621cdd3606465b89b90709d38",
+  "version": "1.1.3",
+  "build_date": "2026-09-06",
+  "firmware_file": "keglevel-pico-firmware-1.1.3.zip",
+  "firmware_sha256": "4e9057b6403be8e73558faa579d0fa71622e74baee31e38fe71fea16fee4271a",
+  "bundle_file": "firmware-bundle-1.1.3.json",
+  "bundle_sha256": "8ac21173f27acabdc26e7b9e086156a71557894d84c44d57c58ff66a4ff25d6f",
   "files": [
     {
       "path": "lib/microdot/__init__.py",
@@ -16,7 +16,7 @@
     },
     {
       "path": "alert_manager.py",
-      "sha256": "2dea2ff385cc9677eaea907578da6363580be9478ce0fd34dbd8250adefe7373"
+      "sha256": "fac1706a3f73a6ac00e1b8a4bc0069336eaff5a1bb5adc7020a2da0b6339ab39"
     },
     {
       "path": "config_manager.py",
@@ -48,7 +48,7 @@
     },
     {
       "path": "version.py",
-      "sha256": "57a337c68003e8a9b5e738c8f0beaaab60d35bd5a55860357d5616878d809898"
+      "sha256": "565b6e8afc0b905831523887b16f98e8ea012b1c9e9e17bd63abc32ccdce9fcd"
     },
     {
       "path": "wifi.py",
@@ -64,7 +64,7 @@
     },
     {
       "path": "www/app.js",
-      "sha256": "e24a156e230674cc137c5547dfe0ce53c01dab20b94a8144f6648cdb7557a478"
+      "sha256": "221024e40d6d1335d8291e504f606564e1ccfe723c64f978ff288ff2cd071d0e"
     },
     {
       "path": "www/help.html",
