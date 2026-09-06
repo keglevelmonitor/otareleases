@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.52",
+    "date": "2026-09-06",
+    "notes": "Fixed ENOMEM issue with alerts"
+  },
+  {
     "version": "0.1.51",
     "date": "2026-09-05",
     "notes": "Cleaned up leftovers with rename from FermVault Brain to FermentationVault Brain"
